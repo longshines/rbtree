@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Build dir
+out/
+build/
+cmake-build-*/
+
+# Trash
+.DS_Store
+
+# IDEA
+.idea/
+
